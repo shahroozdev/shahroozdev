@@ -28,7 +28,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn]((https://www.linkedin.com/in/m-shahrooz-altaf-dev/))
 - 📧 [Email](mailto:shahroozdeveloper@gmail.com)
 - 🌍 [Portfolio](https://shahroozdev.vercel.app/)
 
@@ -84,7 +84,7 @@
 ---
 
 ## 🤝 Want to Collaborate?
-Feel free to reach out via **[Email](mailto:shahroozdeveloper@gmail.com) or [LinkedIn](https://linkedin.com/in/yourprofile)**
+Feel free to reach out via **[Email](mailto:shahroozdeveloper@gmail.com) or [LinkedIn](https://www.linkedin.com/in/m-shahrooz-altaf-dev/)**
 
 
 <!-- Feel free to connect and let’s build something amazing together! -->
