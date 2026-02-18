@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/YOUR_ID" width="150" style="border-radius:50%" />
 
 # 👋 Hey there! I'm Shahrooz
 
