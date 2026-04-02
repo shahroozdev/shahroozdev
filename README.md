@@ -22,7 +22,7 @@
 ---
 
 ## 📄 Resume / CV
-- 📄 [View Resume](https://drive.google.com/file/d/1wCp3Fg4himqewD1nZK3tMxv4XzZfIJvl/view?usp=sharing)
+- 📄 [View Resume](https://drive.google.com/file/d/1dnAcjxzNJ_WDp6YXAOGt9ex8MMo1I6A_/view?usp=sharing)
 
 ---
 
