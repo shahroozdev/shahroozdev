@@ -39,8 +39,8 @@ Working across **healthcare, edtech, e-commerce, real estate, HRM, and professio
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/m-shahrooz-altaf-dev/)
-- 📧 [Email](mailto:shahroozdeveloper@gmail.com)
-- 🌍 [Portfolio](https://shahroozdev.vercel.app/)
+- 📧 [Email](mailto:contact@shahroozaltaf.dev)
+- 🌍 [Portfolio](https://www.shahroozaltaf.dev/)
 
 ---
 
@@ -141,4 +141,4 @@ Working across **healthcare, edtech, e-commerce, real estate, HRM, and professio
 
 ## 🤝 Want to Collaborate?
 
-Feel free to reach out via **[Email](mailto:shahroozdeveloper@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/m-shahrooz-altaf-dev/)**
+Feel free to reach out via **[Email](mailto:contact@shahroozaltaf.dev)** or **[LinkedIn](https://www.linkedin.com/in/m-shahrooz-altaf-dev/)**
