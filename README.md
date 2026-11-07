@@ -10,9 +10,9 @@
 **4+ years** building scalable SaaS platforms, real-time systems, and cross-platform mobile apps.
 Working across **healthcare, edtech, e-commerce, real estate, HRM, and professional networking**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shahroozdev.vercel.app-1A3C6E?style=flat&logo=vercel)](https://shahroozaltaf.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shahroozaltaf.dev-1A3C6E?style=flat&logo=vercel)](https://shahroozaltaf.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/m-shahrooz-altaf-dev/)
-[![Email](https://img.shields.io/badge/Email-shahroozdeveloper@gmail.com-D14836?style=flat&logo=gmail)](mailto:contact@shahroozaltaf.dev)
+[![Email](https://img.shields.io/badge/Email-contact@shahroozaltaf.dev-D14836?style=flat&logo=gmail)](mailto:contact@shahroozaltaf.dev)
 
 </div>
 
