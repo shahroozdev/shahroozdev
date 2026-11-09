@@ -115,23 +115,15 @@ Working across **healthcare, edtech, e-commerce, real estate, HRM, and professio
 
 ---
 
-## 🏗️ Featured Projects
+## 🏆 Featured Work
 
-| Project | Stack | Description |
-|---|---|---|
-| **FAD – For All Doctors** | Next.js, Laravel, Laravel Echo, TanStack Query, TanStack Virtual, next-auth | Large-scale professional networking platform for doctors, lawyers & PhDs. Dual Next.js apps (member + admin). Modules: real-time chat, groups, articles, blogs, classifieds, continuing education |
-| **HRM Suite** | Next.js, NestJS, PostgreSQL, BioTime | Multi-tenant HRM platform with biometric attendance (BioTime), payroll, and leave management |
-| **Ed-Cred** | Next.js, NestJS, PostgreSQL | Anonymous educational review platform with privacy systems and moderation |
-| **Ed-Cred Mobile** | React Native, Expo, NativeWind | Cross-platform iOS & Android app with push notifications and offline access |
-| **EQ360** | Next.js, NestJS, PostgreSQL | Emotional intelligence assessment across 18 sub-competencies |
-| **Iconix Medical** | Next.js, GraphQL, Chargebee | Patient portal with appointments, medical records, and subscription billing |
-| **Gurus Online** | Next.js, NestJS, ABAC | International Mandarin e-learning with live sessions and timezone handling |
-| **Play Now** | Next.js, Express, MongoDB, Stripe | Sports ground booking with real-time availability and location search |
+- **[EbizDash](https://www.shahroozaltaf.dev/projects/ebizdash)** (SaaS · AI): AI-assisted catalog platform that turns messy vendor feeds into store-ready Shopify listings. *TanStack Start, Supabase, LangGraph, Stripe*
+- **[Hermoso](https://www.shahroozaltaf.dev/projects/hermoso)** (Mobile · AI): salon booking platform where an AI face scan recommends treatments and matches customers to salons. *React, Node.js, Kotlin, SwiftUI*
+- **[Digital Khata](https://www.shahroozaltaf.dev/projects/digital-khata)** (SaaS): multi-branch retail POS replacing the paper shop register for Pakistani retailers. *Next.js, PostgreSQL, Electron*
+- **[PharmaCompare](https://www.shahroozaltaf.dev/projects/pharmacompare)** (Healthcare): total-cost price comparison across registered UK online pharmacies. *Next.js, Prisma, Supabase*
+- **[Ed-Cred](https://www.shahroozaltaf.dev/projects/ed-cred)** (EdTech): education review platform on web, iOS and Android. *Next.js, NestJS, React Native*
 
----
-
-
-
+👉 **[All case studies →](https://www.shahroozaltaf.dev/projects)**
 ---
 
 ## ⚡ Fun Fact
