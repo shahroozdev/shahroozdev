@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Shahrooz
 
-![Full Stack](https://img.shields.io/badge/Senior_Full--Stack-Developer-success)
+![Full Stack](https://img.shields.io/badge/Full_Stack_&_Agentic_AI_Developer-success)
 ![React](https://img.shields.io/badge/Next.js-Expert-black?logo=next.js)
 ![NestJS](https://img.shields.io/badge/NestJS-Expert-E0234E?logo=nestjs)
 ![React Native](https://img.shields.io/badge/React_Native-Mobile-61DAFB?logo=react)
@@ -21,6 +21,7 @@ Working across **healthcare, edtech, e-commerce, real estate, HRM, and professio
 ## 🚀 About Me
 
 - 🏗️ Senior Full Stack Developer with **4+ years** of professional experience
+- 🤖 Building agentic AI systems with LLMs, LangChain and CrewAI
 - 💻 Expert in **Next.js, NestJS, React Native, TypeScript**
 - ⚡ Specialized in **multi-tenant SaaS**, real-time systems, and GraphQL APIs
 - 🔐 Deep experience in **RBAC/ABAC**, JWT, OAuth, and secure auth systems
